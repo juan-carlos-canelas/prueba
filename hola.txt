@@ -5,4 +5,4 @@ creando ...
 ------------------------
 esto es para el segundo commit
 -----------------------
-esto es cuarto commit
+linea de conflicto
