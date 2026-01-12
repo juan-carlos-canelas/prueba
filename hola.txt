@@ -5,4 +5,4 @@ creando ...
 ------------------------
 esto es para el segundo commit
 -----------------------
-linea de conflict
+no hay conflicto
