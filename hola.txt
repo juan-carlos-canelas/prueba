@@ -1,2 +1,4 @@
 hola como estas 
 esto es un prueba para git
+------------------------
+esto es para el segundo commit
